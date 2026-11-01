@@ -99,7 +99,7 @@ Translation with Conditional Adversarial Networks*).
 
 | Peran | Nama |
 |---|---|
-| Anggota 1: Prompt Engineer & LLM Navigator (Ketua) | [ISI] |
-| Anggota 2: Data Pipeline & Preprocessing Engineer | [ISI] |
-| Anggota 3: Training Loop & Hyperparameter Tuning Engineer | [ISI] |
-| Anggota 4: Lead Documentarian & Error Handler | [ISI] |
+| Anggota 1: Prompt Engineer & LLM Navigator (Ketua) | Dirgantara Mulyanda |
+| Anggota 2: Data Pipeline & Preprocessing Engineer | Achamd Azhar Faiz Sabiq |
+| Anggota 3: Training Loop & Hyperparameter Tuning Engineer | Khaiyir Hibrizi Shakthi |
+| Anggota 4: Lead Documentarian & Error Handler | Adhi Suryo Nugroho Suhardjo |
