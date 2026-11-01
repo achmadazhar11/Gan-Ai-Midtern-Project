@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Data dan hasil training (besar; unduh/hasilkan ulang)
+data/
+runs/
+hasil/
+*.pt
+*.zip
+
+# Manifest split yang dibuat di folder data (simpan salinan sengaja di splits/)
+split_manifest_seed*.json
+
+# Hasil skrip pratinjau dan pengukuran
+cek_*.png
+vram_*.csv
+preview_pairs.png
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

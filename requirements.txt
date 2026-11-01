@@ -1,0 +1,7 @@
+# Diuji dengan PyTorch 2.15 (CPU) dan 2.11 (Colab T4), Pillow 11-12, numpy 2.
+torch>=2.3          # torch.amp.GradScaler("cuda"); versi lama memakai cadangan torch.cuda.amp
+numpy
+Pillow>=9.1         # Image.Resampling / Image.Transpose
+pytest>=7           # pythonpath di pytest.ini
+pandas              # notebook dan analisis hasil
+matplotlib          # grafik loss di notebook
